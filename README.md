@@ -7,6 +7,7 @@ An AI-powered customer support workflow designed to automate the handling of cus
 The workflow captures customer enquiries, stores them in Airtable, uses AI to generate a professional response, sends the response by email, and updates the enquiry record after the response is sent.
 
 ## 🔄 Workflow
+![AI Customer Support Workflow](ai-customer-support-workflow.png)
 
 Customer submits support enquiry
 ↓
